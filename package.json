@@ -1,0 +1,21 @@
+{
+    "name": "playwright-project",
+    "version": "1.0.0",
+    "description": "Playwright project for testing SAP Fioneer website",
+    "main": "index.js",
+    "scripts": {
+      "test": "playwright test"
+    },
+    "keywords": [
+      "playwright",
+      "testing",
+      "SAP",
+      "Fioneer"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+      "@playwright/test": "^1.18.1"
+    }
+  }
+  
